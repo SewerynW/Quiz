@@ -1,2 +1,2 @@
-# Quize
-Quize
+# Quiz
+Quiz
