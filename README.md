@@ -1,6 +1,10 @@
-# quiz
+# Quiz
 
-> Application for interview.
+##
+
+Go and check it on: https://goofy-easley-58cd2f.netlify.app/
+
+## Project setup
 
 ```bash
 
