@@ -1,24 +1,25 @@
 # quiz
 
-## Project setup
-```
-npm install
-```
+> Application for interview.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+```bash
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# download project
+$ git clone https://github.com/SewerynW/Quiz.git
 
-### Lints and fixes files
-```
-npm run lint
+# install dependencies
+$ npm install
+
+# Compiles and hot-reloads for development
+$ npm run dev
+
+# Compiles and minifies for production
+$ npm run build
+
+# lints and fixes files
+$ npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,1 +1,27 @@
 @import "./reset";
+
+* {
+  font-family: "Syne Mono", monospace;
+}
+
+html,
+body {
+  height: 100vh;
+  perspective: 2px;
+  transform-style: preserve-3d;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 2px 1px grey;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:active {
+  outline: none;
+}
